@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <meta
+      http-equiv="X-Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <title>Hello from Electron renderer! desdesdes!!</title>
+  </head>
+  <body>
+    <h1>ITS READING TIME</h1>
+    <p>👋</p>
+    <p id = "ready">ready to read?</p>
+    <!-- takes in file -->
+    <p></p>
+
+    <!-- <input type="submit" id = 'start' , value="Start!", href="speed.html">
+     <script src = "index.js"></script> -->
+      
+    <!-- <button id="start"> Starties! </button>
+    <script>require('./index')</script> -->
+
+    <button id="back">Back to previous screen</button>
+    <!-- <script>require('./speed.js')</script> -->
+    <!-- <script>require('./preload.js')</script> -->
+    <!-- <script src="./renderer.js"></script> -->
+    <script src='./speed.js'></script>
+
+  </body>
+  <!-- <script src="./renderer.js"></script> -->
+</html>

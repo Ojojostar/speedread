@@ -1,0 +1,9 @@
+https://nanonets.com/blog/pdf-ocr-python/
+train own model
+https://medium.com/@dr.booma19/extracting-text-from-pdf-files-using-ocr-a-step-by-step-guide-with-python-code-becf221529ef
+https://github.com/JaidedAI/EasyOCR
+
+
+used links
+https://stackoverflow.com/questions/76093737/convert-edited-pdf-into-txt
+https://svr.skcript.com/svr/how-to-execute-python-scripts-in-electron-and-nodejs 
